@@ -2,7 +2,7 @@
 
 <!--
 **yisusmrl/yisusmrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FTheMatpatEffect%2Fcomments%2F1lp3ayy%2Fthe_original_image_of_the_monkey_thinking_meme%2F&psig=AOvVaw1oYqMStbfjC34h4YfZbRIi&ust=1763586754725000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJCQ8eHO_JADFQAAAAAdAAAAABAE">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
